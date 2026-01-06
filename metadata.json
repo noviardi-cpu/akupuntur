@@ -1,0 +1,7 @@
+{
+  "name": "TCM WuXing Pro - Smart OCR Edition",
+  "description": "TCM diagnosis assistant with intelligent medical OCR and vision scanning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
